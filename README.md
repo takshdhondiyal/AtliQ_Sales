@@ -13,7 +13,7 @@ To develop a comprehensive dashboard that provides real-time insights into key p
 
 -- Establishing the relationships between the tables.
 
--- Writing DAX to calculate the metrics like Revenue, Total sales quantity, % contribution of revenue and sales quantity, YoY growth, etc.
+-- Writing DAX to calculate the metrics like Revenue, Total sales quantity, % contribution of revenue and sales quantity, YoY% growth, etc.
 
 -- Designing the visuals.
 
